@@ -10,7 +10,7 @@ This repository contains an HTML file that displays a humorous and irreverent pr
 
 1. Clone the repository:
     ```
-    git clone 
+    git clone git@github.com:yshplsngh/Privacy_Policy.git
     ```
 
 2. Navigate to the repository directory:
